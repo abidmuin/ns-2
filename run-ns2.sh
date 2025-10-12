@@ -14,7 +14,7 @@ docker run -it \
     -e DISPLAY=$DISPLAY \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
     -v "$HOST_SCRIPTS_DIR":/root/scripts \
-    ns-2.35
+    abidmuin/ns-2.35
 
 # Revoke X access after container exits
 xhost -local:root
