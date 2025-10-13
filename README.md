@@ -6,7 +6,7 @@
 
 ## Project Stats
 
-![Docker Pulls](https://img.shields.io/docker/pulls/abidmuin/ns-2.35) ![GitHub Stars](https://img.shields.io/github/stars/abidmuin/ns-2?style=social) ![GitHub Forks](https://img.shields.io/github/forks/abidmuin/ns-2?style=social) ![Repo Clones](https://img.shields.io/badge/dynamic/json?color=blue&label=Clones&query=count&url=https://api.github.com/repos/abidmuin/ns-2/traffic/clones) ![Repo Views](https://img.shields.io/badge/dynamic/json?color=green&label=Views&query=count&url=https://api.github.com/repos/abidmuin/ns-2/traffic/views) ![Last Commit](https://img.shields.io/github/last-commit/abidmuin/ns-2) ![License](https://img.shields.io/github/license/abidmuin/ns-2) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Docker Pulls](https://img.shields.io/docker/pulls/abidmuin/ns-2.35) [![GitHub stars](https://img.shields.io/github/stars/abidmuin/ns-2.svg)](https://github.com/abidmuin/ns-2/stargazers) [![GitHub forks](https://img.shields.io/github/forks/abidmuin/ns-2.svg?style=social)](https://github.com/abidmuin/ns-2/network) [![Repo Views](https://hits.sh/github.com/abidmuin/hits.svg)](https://hits.sh/github.com/abidmuin/ns2/) ![Last Commit](https://img.shields.io/github/last-commit/abidmuin/ns-2) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Table of Contents
 
