@@ -12,7 +12,7 @@
 
 - [Quick-start](#quick-start-1-minute-setup)
 - [Features](#features)
-- [Usage Options: Two Ways to Use NS-2](#usage-option--two-ways-to-use-ns-2)
+- [Usage Options: Two Ways to Use NS-2](#usage-options--two-ways-to-use-ns-2)
 - [Running Simulations](#running-simulations)
 - [Wayland Support](#wayland-support-x11-via-xwayland)
 - [Project Structure](#project-structure)
