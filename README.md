@@ -2,6 +2,10 @@
 
 **Run Network Simulator 2 (NS-2.35) with NAM GUI inside Docker. Zero setup, 100% reproducible. Perfect for students, researchers, or legacy network labs.**
 
+<div align="center">
+  <img src="assets/cover-image.png" alt="NS-2 Docker Project Cover" width="100%">
+</div>
+
 **Network Simulator 2 (NS-2.35)** is a popular discrete event simulator for network research, but it often fails to compile on modern systems. This Docker image provides a plug-and-play environment with full GUI support, eliminating the setup hassle.
 
 ## Project Stats
